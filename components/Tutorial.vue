@@ -1,4 +1,5 @@
 <template>
+<fragment>
 <div class="header-mode">
     <div class="mode-dark">
         <button @click="darkMode" name="mode" class="btn-mode ">
@@ -21,6 +22,7 @@
         </button>
     </div>
 </div>
+</fragment>
 </template>
 
 <script>
