@@ -29,7 +29,7 @@ For detailed explanation on how things work, check out the [documentation](https
 
 
 ## About Project - Sobre Projeto
-- Componente criado de um botão dark mode ( alterando de tema claro pra escuro )
+- Componente, criando um botão dark mode ( alterando de tema claro pra escuro )
 - projeto criando em NuxtJs
 
 
@@ -38,6 +38,6 @@ For detailed explanation on how things work, check out the [documentation](https
 </p>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/mLRBdvqePMSJwzcHPk/giphy.gif" alt="Podcastr" width="150"/>
+   <img src="https://github.com/Gabrielfernandes87f/dark-mode/blob/main/assets/gifs/dark-mode-art.gif" alt="Podcastr"/>
 </p>
 
